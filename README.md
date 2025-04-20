@@ -22,8 +22,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)   
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Sanity CMS](https://img.shields.io/badge/Sanity-FF2D20?style=for-the-badge&logo=sanity&logoColor=white)  
@@ -53,23 +52,30 @@
 🔗 [View Project](https://github.com/NehaFahim/FurnitureStore.git)
 🔗 [View Project on vercel](https://furniture-store-puce.vercel.app/)  
 
+###💼 **Portfolio Website**
+- A professional portfolio website built with **Next.js**, **Tailwind CSS**, and **TypeScript** to showcase my skills, projects, and contact details.  
+- **Features:** Home, About, Projects, Resume, and Contact pages. Fully responsive design with clean UI/UX.  
+🔗 [View Project](https://github.com/NehaFahim/MyPortfolio.git)  
+🔗 [View Project on Vercel](my-portfolio-v113.vercel.app)
 
 ### 📘 **Learn to Code Website**  
 - An interactive platform for learning coding **(HTML, CSS, JavaScript, React, Next.js)**.  
 - Features: User signup, course content, and interactive coding challenges.  
-🔗 [View Project](https://github.com/NehaFahim/learn-to-code-website.git)  
+🔗 [View Project](https://github.com/NehaFahim/learn-to-code-website.git)
+🔗 [View Project on Vercel](learn-to-code-website.vercel.app)
 
 ### 🌐 **Login Signup Form**  
 - A tech and education-focused form using **Next.js + authjs**.  
 - Features: username, email, and password and login process.  
-🔗 [View Project](https://github.com/NehaFahim/login-signup-form.git)  
+🔗 [View Project](https://github.com/NehaFahim/login-signup-form.git)
+🔗 [View Project on Vercel](login-signup-form-green.vercel.app)
 
 ---
 
 ## 🌍 Connect with Me  
-- 🏗️ **Portfolio Website:** [yourwebsite.com](https://github.com/NehaFahim/my-portfolio.git)  
-- 💼 **LinkedIn:** [linkedin.com/in/Neha Fahim](https://www.linkedin.com/in/neha-fahim-9710952b7/)   
-- 🐦 **Twitter:** [@yourusername](https://twitter.com/Neha Fahim)  
+- 🏗️ **Portfolio Website:**🔗(my-portfolio-v113.vercel.app)  
+- 💼 **LinkedIn:** 🔗(https://www.linkedin.com/in/neha-fahim-9710952b7/)   
+- 🐦 **Twitter:** 🔗(https://twitter.com/Neha Fahim)  
 
 ---
 
