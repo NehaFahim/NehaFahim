@@ -56,25 +56,25 @@
 - A professional portfolio website built with **Next.js**, **Tailwind CSS**, and **TypeScript** to showcase my skills, projects, and contact details.  
 - **Features:** Home, About, Projects, Resume, and Contact pages. Fully responsive design with clean UI/UX.  
 🔗 [View Project](https://github.com/NehaFahim/MyPortfolio.git)  
-🔗 [View Project on Vercel](my-portfolio-v113.vercel.app)
+🔗 [View Project on Vercel](https://vercel.com/neha-fahims-projects/my-portfolio-v113)
 
 ### 📘 **Learn to Code Website**  
 - An interactive platform for learning coding **(HTML, CSS, JavaScript, React, Next.js)**.  
 - Features: User signup, course content, and interactive coding challenges.  
 🔗 [View Project](https://github.com/NehaFahim/learn-to-code-website.git)
-🔗 [View Project on Vercel](learn-to-code-website.vercel.app)
+🔗 [View Project on Vercel](https://vercel.com/neha-fahims-projects/learn-to-code-website)
 
 ### 🌐 **Login Signup Form**  
 - A tech and education-focused form using **Next.js + authjs**.  
 - Features: username, email, and password and login process.  
 🔗 [View Project](https://github.com/NehaFahim/login-signup-form.git)
-🔗 [View Project on Vercel](login-signup-form-green.vercel.app)
+🔗 [View Project on Vercel](https://vercel.com/neha-fahims-projects/login-signup-form)
 
 ---
 
 ## 🌍 Connect with Me  
-- 🏗️ **Portfolio Website:**🔗(my-portfolio-v113.vercel.app)  
-- 💼 **LinkedIn:** 🔗(https://www.linkedin.com/in/neha-fahim-9710952b7/)   
+- 🏗️ **Portfolio Website:** 🔗(https://vercel.com/neha-fahims-projects/my-portfolio-v113)  
+- 💼 **LinkedIn:** 🔗(https://www.linkedin.com/in/nehafahim/)   
 - 🐦 **Twitter:** 🔗(https://twitter.com/Neha Fahim)  
 
 ---
