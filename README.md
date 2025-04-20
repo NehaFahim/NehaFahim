@@ -75,7 +75,7 @@
 ## 🌍 Connect with Me  
 - 🏗️ **Portfolio Website:** 🔗(https://vercel.com/neha-fahims-projects/my-portfolio-v113)  
 - 💼 **LinkedIn:** 🔗(https://www.linkedin.com/in/nehafahim/)   
-- 🐦 **Twitter:** 🔗(https://twitter.com/Neha Fahim)  
+- 🐦 **Twitter:** 🔗(https://x.com/FahimNeha33515)  
 
 ---
 
