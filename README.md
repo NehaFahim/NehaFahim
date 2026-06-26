@@ -149,7 +149,7 @@ Professional Portfolio built with **Next.js + TypeScript**
 - Contact Section  
 
 🔗 [GitHub](https://github.com/NehaFahim/MyPortfolio)  
-🌐 [Live Demo](https://my-portfolio-u23s.vercel.app/)
+🌐 [Live Demo](https://nehafahim.vercel.app/)
 
 </td>
 
