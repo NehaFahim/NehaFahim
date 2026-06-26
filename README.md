@@ -256,7 +256,7 @@ Let’s build something impactful together ✨
 📧 **Email:** nehafahim.098@gmail.com  
 
 🌐 **Portfolio:**  
-(https://neha-portfolio-two-phi.vercel.app/) 
+(https://nehafahim.vercel.app/)
 
 ⭐ **Fiverr:**  
 https://fiverr.com/nehaafahim
